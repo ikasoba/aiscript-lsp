@@ -1,0 +1,270 @@
+{
+  header: Map(1) { 'Content-Length' => '4664' },
+  body: '{"jsonrpc":"2.0","id":0,"method":"initialize","params":{"processId":30944,"clientInfo":{"name":"Visual Studio Code","version":"1.75.1"},"locale":"ja","rootPath":"m:\\\\programs\\\\aiscript","rootUri":"file:///m%3A/programs/aiscript","capabilities":{"workspace":{"applyEdit":true,"workspaceEdit":{"documentChanges":true,"resourceOperations":["create","rename","delete"],"failureHandling":"textOnlyTransactional","normalizesLineEndings":true,"changeAnnotationSupport":{"groupsOnLabel":true}},"didChangeConfiguration":{"dynamicRegistration":true},"didChangeWatchedFiles":{"dynamicRegistration":true},"symbol":{"dynamicRegistration":true,"symbolKind":{"valueSet":[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26]},"tagSupport":{"valueSet":[1]}},"codeLens":{"refreshSupport":true},"executeCommand":{"dynamicRegistration":true},"configuration":true,"workspaceFolders":true,"semanticTokens":{"refreshSupport":true},"fileOperations":{"dynamicRegistration":true,"didCreate":true,"didRename":true,"didDelete":true,"willCreate":true,"willRename":true,"willDelete":true}},"textDocument":{"publishDiagnostics":{"relatedInformation":true,"versionSupport":false,"tagSupport":{"valueSet":[1,2]},"codeDescriptionSupport":true,"dataSupport":true},"synchronization":{"dynamicRegistration":true,"willSave":true,"willSaveWaitUntil":true,"didSave":true},"completion":{"dynamicRegistration":true,"contextSupport":true,"completionItem":{"snippetSupport":true,"commitCharactersSupport":true,"documentationFormat":["markdown","plaintext"],"deprecatedSupport":true,"preselectSupport":true,"tagSupport":{"valueSet":[1]},"insertReplaceSupport":true,"resolveSupport":{"properties":["documentation","detail","additionalTextEdits"]},"insertTextModeSupport":{"valueSet":[1,2]}},"completionItemKind":{"valueSet":[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25]}},"hover":{"dynamicRegistration":true,"contentFormat":["markdown","plaintext"]},"signatureHelp":{"dynamicRegistration":true,"signatureInformation":{"documentationFormat":["markdown","plaintext"],"parameterInformation":{"labelOffsetSupport":true},"activeParameterSupport":true},"contextSupport":true},"definition":{"dynamicRegistration":true,"linkSupport":true},"references":{"dynamicRegistration":true},"documentHighlight":{"dynamicRegistration":true},"documentSymbol":{"dynamicRegistration":true,"symbolKind":{"valueSet":[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26]},"hierarchicalDocumentSymbolSupport":true,"tagSupport":{"valueSet":[1]},"labelSupport":true},"codeAction":{"dynamicRegistration":true,"isPreferredSupport":true,"disabledSupport":true,"dataSupport":true,"resolveSupport":{"properties":["edit"]},"codeActionLiteralSupport":{"codeActionKind":{"valueSet":["","quickfix","refactor","refactor.extract","refactor.inline","refactor.rewrite","source","source.organizeImports"]}},"honorsChangeAnnotations":false},"codeLens":{"dynamicRegistration":true},"formatting":{"dynamicRegistration":true},"rangeFormatting":{"dynamicRegistration":true},"onTypeFormatting":{"dynamicRegistration":true},"rename":{"dynamicRegistration":true,"prepareSupport":true,"prepareSupportDefaultBehavior":1,"honorsChangeAnnotations":true},"documentLink":{"dynamicRegistration":true,"tooltipSupport":true},"typeDefinition":{"dynamicRegistration":true,"linkSupport":true},"implementation":{"dynamicRegistration":true,"linkSupport":true},"colorProvider":{"dynamicRegistration":true},"foldingRange":{"dynamicRegistration":true,"rangeLimit":5000,"lineFoldingOnly":true},"declaration":{"dynamicRegistration":true,"linkSupport":true},"selectionRange":{"dynamicRegistration":true},"callHierarchy":{"dynamicRegistration":true},"semanticTokens":{"dynamicRegistration":true,"tokenTypes":["namespace","type","class","enum","interface","struct","typeParameter","parameter","variable","property","enumMember","event","function","method","macro","keyword","modifier","comment","string","number","regexp","operator"],"tokenModifiers":["declaration","definition","readonly","static","deprecated","abstract","async","modification","documentation","defaultLibrary"],"formats":["relative"],"requests":{"range":true,"full":{"delta":true}},"multilineTokenSupport":false,"overlappingTokenSupport":false},"linkedEditingRange":{"dynamicRegistration":true}},"window":{"showMessage":{"messageActionItem":{"additionalPropertiesSupport":true}},"showDocument":{"support":true},"workDoneProgress":true},"general":{"regularExpressions":{"engine":"ECMAScript","version":"ES2020"},"markdown":{"parser":"marked","version":"1.1.0"}}},"trace":"off","workspaceFolders":[{"uri":"file:///m%3A/programs/aiscript","name":"aiscript"}]}}'
+}
+Content-Length: 4664
+
+{"jsonrpc":"2.0","id":0,"method":"initialize","params":{"processId":30944,"clientInfo":{"name":"Visual Studio Code","version":"1.75.1"},"locale":"ja","rootPath":"m:\\programs\\aiscript","rootUri":"file:///m%3A/programs/aiscript","capabilities":{"workspace":{"applyEdit":true,"workspaceEdit":{"documentChanges":true,"resourceOperations":["create","rename","delete"],"failureHandling":"textOnlyTransactional","normalizesLineEndings":true,"changeAnnotationSupport":{"groupsOnLabel":true}},"didChangeConfiguration":{"dynamicRegistration":true},"didChangeWatchedFiles":{"dynamicRegistration":true},"symbol":{"dynamicRegistration":true,"symbolKind":{"valueSet":[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26]},"tagSupport":{"valueSet":[1]}},"codeLens":{"refreshSupport":true},"executeCommand":{"dynamicRegistration":true},"configuration":true,"workspaceFolders":true,"semanticTokens":{"refreshSupport":true},"fileOperations":{"dynamicRegistration":true,"didCreate":true,"didRename":true,"didDelete":true,"willCreate":true,"willRename":true,"willDelete":true}},"textDocument":{"publishDiagnostics":{"relatedInformation":true,"versionSupport":false,"tagSupport":{"valueSet":[1,2]},"codeDescriptionSupport":true,"dataSupport":true},"synchronization":{"dynamicRegistration":true,"willSave":true,"willSaveWaitUntil":true,"didSave":true},"completion":{"dynamicRegistration":true,"contextSupport":true,"completionItem":{"snippetSupport":true,"commitCharactersSupport":true,"documentationFormat":["markdown","plaintext"],"deprecatedSupport":true,"preselectSupport":true,"tagSupport":{"valueSet":[1]},"insertReplaceSupport":true,"resolveSupport":{"properties":["documentation","detail","additionalTextEdits"]},"insertTextModeSupport":{"valueSet":[1,2]}},"completionItemKind":{"valueSet":[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25]}},"hover":{"dynamicRegistration":true,"contentFormat":["markdown","plaintext"]},"signatureHelp":{"dynamicRegistration":true,"signatureInformation":{"documentationFormat":["markdown","plaintext"],"parameterInformation":{"labelOffsetSupport":true},"activeParameterSupport":true},"contextSupport":true},"definition":{"dynamicRegistration":true,"linkSupport":true},"references":{"dynamicRegistration":true},"documentHighlight":{"dynamicRegistration":true},"documentSymbol":{"dynamicRegistration":true,"symbolKind":{"valueSet":[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26]},"hierarchicalDocumentSymbolSupport":true,"tagSupport":{"valueSet":[1]},"labelSupport":true},"codeAction":{"dynamicRegistration":true,"isPreferredSupport":true,"disabledSupport":true,"dataSupport":true,"resolveSupport":{"properties":["edit"]},"codeActionLiteralSupport":{"codeActionKind":{"valueSet":["","quickfix","refactor","refactor.extract","refactor.inline","refactor.rewrite","source","source.organizeImports"]}},"honorsChangeAnnotations":false},"codeLens":{"dynamicRegistration":true},"formatting":{"dynamicRegistration":true},"rangeFormatting":{"dynamicRegistration":true},"onTypeFormatting":{"dynamicRegistration":true},"rename":{"dynamicRegistration":true,"prepareSupport":true,"prepareSupportDefaultBehavior":1,"honorsChangeAnnotations":true},"documentLink":{"dynamicRegistration":true,"tooltipSupport":true},"typeDefinition":{"dynamicRegistration":true,"linkSupport":true},"implementation":{"dynamicRegistration":true,"linkSupport":true},"colorProvider":{"dynamicRegistration":true},"foldingRange":{"dynamicRegistration":true,"rangeLimit":5000,"lineFoldingOnly":true},"declaration":{"dynamicRegistration":true,"linkSupport":true},"selectionRange":{"dynamicRegistration":true},"callHierarchy":{"dynamicRegistration":true},"semanticTokens":{"dynamicRegistration":true,"tokenTypes":["namespace","type","class","enum","interface","struct","typeParameter","parameter","variable","property","enumMember","event","function","method","macro","keyword","modifier","comment","string","number","regexp","operator"],"tokenModifiers":["declaration","definition","readonly","static","deprecated","abstract","async","modification","documentation","defaultLibrary"],"formats":["relative"],"requests":{"range":true,"full":{"delta":true}},"multilineTokenSupport":false,"overlappingTokenSupport":false},"linkedEditingRange":{"dynamicRegistration":true}},"window":{"showMessage":{"messageActionItem":{"additionalPropertiesSupport":true}},"showDocument":{"support":true},"workDoneProgress":true},"general":{"regularExpressions":{"engine":"ECMAScript","version":"ES2020"},"markdown":{"parser":"marked","version":"1.1.0"}}},"trace":"off","workspaceFolders":[{"uri":"file:///m%3A/programs/aiscript","name":"aiscript"}]}}
+Content-Length: 143
+
+{"jsonrpc":"2.0","id":0,"result":{"capabilities":{"textDocumentSync":1,"workspace":{}},"serverInfo":{"name":"aiscript-lsp","version":"0.1.0"}}}
+{ header: Map(1) { 'Content-Length' => '52' }, body: '' }
+{
+  header: Map(1) { 'Content-Length' => '52' },
+  body: '{"jsonrpc":"2.0","method":"initialized","params":{}}'
+}
+Content-Length: 52
+
+{"jsonrpc":"2.0","method":"initialized","params":{}}
+{ header: Map(1) { 'Content-Length' => '186' }, body: '' }
+{
+  header: Map(1) { 'Content-Length' => '186' },
+  body: '{"jsonrpc":"2.0","method":"textDocument/didOpen","params":{"textDocument":{"uri":"file:///m%3A/programs/aiscript/aaa.ai","languageId":"plaintext","version":2,"text":"var hoge = 0\\r\\n"}}}'
+}
+Content-Length: 186
+
+{"jsonrpc":"2.0","method":"textDocument/didOpen","params":{"textDocument":{"uri":"file:///m%3A/programs/aiscript/aaa.ai","languageId":"plaintext","version":2,"text":"var hoge = 0\r\n"}}}
+{
+  textDocument: {
+    uri: 'file:///m%3A/programs/aiscript/aaa.ai',
+    languageId: 'plaintext',
+    version: 2,
+    text: 'var hoge = 0\r\n'
+  }
+}
+{ header: Map(1) { 'Content-Length' => '123' }, body: '' }
+{
+  header: Map(1) { 'Content-Length' => '123' },
+  body: '{"jsonrpc":"2.0","method":"textDocument/didSave","params":{"textDocument":{"uri":"file:///m%3A/programs/aiscript/aaa.ai"}}}'
+}
+Content-Length: 123
+
+{"jsonrpc":"2.0","method":"textDocument/didSave","params":{"textDocument":{"uri":"file:///m%3A/programs/aiscript/aaa.ai"}}}
+{ header: Map(1) { 'Content-Length' => '180' }, body: '' }
+{
+  header: Map(1) { 'Content-Length' => '180' },
+  body: '{"jsonrpc":"2.0","method":"textDocument/didChange","params":{"textDocument":{"uri":"file:///m%3A/programs/aiscript/aaa.ai","version":3},"contentChanges":[{"text":"var hoge = 0"}]}}'
+}
+Content-Length: 180
+
+{"jsonrpc":"2.0","method":"textDocument/didChange","params":{"textDocument":{"uri":"file:///m%3A/programs/aiscript/aaa.ai","version":3},"contentChanges":[{"text":"var hoge = 0"}]}}
+Content-Length: 134
+Content-Type: application/vscode-jsonrpc; charset=utf-8
+
+{"jsonrpc":"2.0","method":"textDocument/publishDiagnostics","params":{"uri":"file:///m%3A/programs/aiscript/aaa.ai","diagnostics":[]}}
+{ header: Map(1) { 'Content-Length' => '123' }, body: '' }
+{
+  header: Map(1) { 'Content-Length' => '123' },
+  body: '{"jsonrpc":"2.0","method":"textDocument/didSave","params":{"textDocument":{"uri":"file:///m%3A/programs/aiscript/aaa.ai"}}}'
+}
+Content-Length: 123
+
+{"jsonrpc":"2.0","method":"textDocument/didSave","params":{"textDocument":{"uri":"file:///m%3A/programs/aiscript/aaa.ai"}}}
+{ header: Map(1) { 'Content-Length' => '184' }, body: '' }
+{
+  header: Map(1) { 'Content-Length' => '184' },
+  body: '{"jsonrpc":"2.0","method":"textDocument/didChange","params":{"textDocument":{"uri":"file:///m%3A/programs/aiscript/aaa.ai","version":4},"contentChanges":[{"text":"var hoge = 0\\r\\n"}]}}'
+}
+Content-Length: 184
+
+{"jsonrpc":"2.0","method":"textDocument/didChange","params":{"textDocument":{"uri":"file:///m%3A/programs/aiscript/aaa.ai","version":4},"contentChanges":[{"text":"var hoge = 0\r\n"}]}}
+Content-Length: 134
+Content-Type: application/vscode-jsonrpc; charset=utf-8
+
+{"jsonrpc":"2.0","method":"textDocument/publishDiagnostics","params":{"uri":"file:///m%3A/programs/aiscript/aaa.ai","diagnostics":[]}}
+{ header: Map(1) { 'Content-Length' => '123' }, body: '' }
+{
+  header: Map(1) { 'Content-Length' => '123' },
+  body: '{"jsonrpc":"2.0","method":"textDocument/didSave","params":{"textDocument":{"uri":"file:///m%3A/programs/aiscript/aaa.ai"}}}'
+}
+Content-Length: 123
+
+{"jsonrpc":"2.0","method":"textDocument/didSave","params":{"textDocument":{"uri":"file:///m%3A/programs/aiscript/aaa.ai"}}}
+{ header: Map(1) { 'Content-Length' => '180' }, body: '' }
+{
+  header: Map(1) { 'Content-Length' => '180' },
+  body: '{"jsonrpc":"2.0","method":"textDocument/didChange","params":{"textDocument":{"uri":"file:///m%3A/programs/aiscript/aaa.ai","version":5},"contentChanges":[{"text":"var hoge = 0"}]}}'
+}
+Content-Length: 180
+
+{"jsonrpc":"2.0","method":"textDocument/didChange","params":{"textDocument":{"uri":"file:///m%3A/programs/aiscript/aaa.ai","version":5},"contentChanges":[{"text":"var hoge = 0"}]}}
+Content-Length: 134
+Content-Type: application/vscode-jsonrpc; charset=utf-8
+
+{"jsonrpc":"2.0","method":"textDocument/publishDiagnostics","params":{"uri":"file:///m%3A/programs/aiscript/aaa.ai","diagnostics":[]}}
+{ header: Map(1) { 'Content-Length' => '123' }, body: '' }
+{
+  header: Map(1) { 'Content-Length' => '123' },
+  body: '{"jsonrpc":"2.0","method":"textDocument/didSave","params":{"textDocument":{"uri":"file:///m%3A/programs/aiscript/aaa.ai"}}}'
+}
+Content-Length: 123
+
+{"jsonrpc":"2.0","method":"textDocument/didSave","params":{"textDocument":{"uri":"file:///m%3A/programs/aiscript/aaa.ai"}}}
+{ header: Map(1) { 'Content-Length' => '179' }, body: '' }
+{
+  header: Map(1) { 'Content-Length' => '179' },
+  body: '{"jsonrpc":"2.0","method":"textDocument/didChange","params":{"textDocument":{"uri":"file:///m%3A/programs/aiscript/aaa.ai","version":6},"contentChanges":[{"text":"var hoge = "}]}}'
+}
+Content-Length: 179
+
+{"jsonrpc":"2.0","method":"textDocument/didChange","params":{"textDocument":{"uri":"file:///m%3A/programs/aiscript/aaa.ai","version":6},"contentChanges":[{"text":"var hoge = "}]}}
+Content-Length: 134
+Content-Type: application/vscode-jsonrpc; charset=utf-8
+
+{"jsonrpc":"2.0","method":"textDocument/publishDiagnostics","params":{"uri":"file:///m%3A/programs/aiscript/aaa.ai","diagnostics":[]}}
+{
+  type: 'err',
+  value: [ 0, 11 ],
+  message: 'Parsing error. (Line 1:12)'
+}
+Content-Length: 250
+Content-Type: application/vscode-jsonrpc; charset=utf-8
+
+{"jsonrpc":"2.0","method":"textDocument/publishDiagnostics","params":{"uri":"file:///m%3A/programs/aiscript/aaa.ai","diagnostics":[{"range":{"start":{"line":0,"character":11},"end":{"line":0,"character":11}},"message":"Parsing error. (Line 1:12)"}]}}
+{ header: Map(1) { 'Content-Length' => '123' }, body: '' }
+{
+  header: Map(1) { 'Content-Length' => '123' },
+  body: '{"jsonrpc":"2.0","method":"textDocument/didSave","params":{"textDocument":{"uri":"file:///m%3A/programs/aiscript/aaa.ai"}}}'
+}
+Content-Length: 123
+
+{"jsonrpc":"2.0","method":"textDocument/didSave","params":{"textDocument":{"uri":"file:///m%3A/programs/aiscript/aaa.ai"}}}
+{ header: Map(1) { 'Content-Length' => '180' }, body: '' }
+{
+  header: Map(1) { 'Content-Length' => '180' },
+  body: '{"jsonrpc":"2.0","method":"textDocument/didChange","params":{"textDocument":{"uri":"file:///m%3A/programs/aiscript/aaa.ai","version":7},"contentChanges":[{"text":"var hoge = 0"}]}}'
+}
+Content-Length: 180
+
+{"jsonrpc":"2.0","method":"textDocument/didChange","params":{"textDocument":{"uri":"file:///m%3A/programs/aiscript/aaa.ai","version":7},"contentChanges":[{"text":"var hoge = 0"}]}}
+Content-Length: 134
+Content-Type: application/vscode-jsonrpc; charset=utf-8
+
+{"jsonrpc":"2.0","method":"textDocument/publishDiagnostics","params":{"uri":"file:///m%3A/programs/aiscript/aaa.ai","diagnostics":[]}}
+{ header: Map(1) { 'Content-Length' => '123' }, body: '' }
+{
+  header: Map(1) { 'Content-Length' => '123' },
+  body: '{"jsonrpc":"2.0","method":"textDocument/didSave","params":{"textDocument":{"uri":"file:///m%3A/programs/aiscript/aaa.ai"}}}'
+}
+Content-Length: 123
+
+{"jsonrpc":"2.0","method":"textDocument/didSave","params":{"textDocument":{"uri":"file:///m%3A/programs/aiscript/aaa.ai"}}}
+{ header: Map(1) { 'Content-Length' => '177' }, body: '' }
+{
+  header: Map(1) { 'Content-Length' => '177' },
+  body: '{"jsonrpc":"2.0","method":"textDocument/didChange","params":{"textDocument":{"uri":"file:///m%3A/programs/aiscript/aaa.ai","version":11},"contentChanges":[{"text":"var  = 0"}]}}'
+}
+Content-Length: 177
+
+{"jsonrpc":"2.0","method":"textDocument/didChange","params":{"textDocument":{"uri":"file:///m%3A/programs/aiscript/aaa.ai","version":11},"contentChanges":[{"text":"var  = 0"}]}}
+Content-Length: 134
+Content-Type: application/vscode-jsonrpc; charset=utf-8
+
+{"jsonrpc":"2.0","method":"textDocument/publishDiagnostics","params":{"uri":"file:///m%3A/programs/aiscript/aaa.ai","diagnostics":[]}}
+{ type: 'err', value: null, message: '' }
+Content-Length: 222
+Content-Type: application/vscode-jsonrpc; charset=utf-8
+
+{"jsonrpc":"2.0","method":"textDocument/publishDiagnostics","params":{"uri":"file:///m%3A/programs/aiscript/aaa.ai","diagnostics":[{"range":{"start":{"line":0,"character":0},"end":{"line":0,"character":0}},"message":""}]}}
+{ header: Map(1) { 'Content-Length' => '186' }, body: '' }
+{
+  header: Map(1) { 'Content-Length' => '186' },
+  body: '{"jsonrpc":"2.0","method":"textDocument/didChange","params":{"textDocument":{"uri":"file:///m%3A/programs/aiscript/aaa.ai","version":20},"contentChanges":[{"text":"var hoge: num = 0"}]}}'
+}
+Content-Length: 186
+
+{"jsonrpc":"2.0","method":"textDocument/didChange","params":{"textDocument":{"uri":"file:///m%3A/programs/aiscript/aaa.ai","version":20},"contentChanges":[{"text":"var hoge: num = 0"}]}}
+Content-Length: 134
+Content-Type: application/vscode-jsonrpc; charset=utf-8
+
+{"jsonrpc":"2.0","method":"textDocument/publishDiagnostics","params":{"uri":"file:///m%3A/programs/aiscript/aaa.ai","diagnostics":[]}}
+{ header: Map(1) { 'Content-Length' => '123' }, body: '' }
+{
+  header: Map(1) { 'Content-Length' => '123' },
+  body: '{"jsonrpc":"2.0","method":"textDocument/didSave","params":{"textDocument":{"uri":"file:///m%3A/programs/aiscript/aaa.ai"}}}'
+}
+Content-Length: 123
+
+{"jsonrpc":"2.0","method":"textDocument/didSave","params":{"textDocument":{"uri":"file:///m%3A/programs/aiscript/aaa.ai"}}}
+{ header: Map(1) { 'Content-Length' => '2267' }, body: '' }
+{
+  header: Map(1) { 'Content-Length' => '2267' },
+  body: '{"jsonrpc":"2.0","method":"textDocument/didChange","params":{"textDocument":{"uri":"file:///m%3A/programs/aiscript/aaa.ai","version":21},"contentChanges":[{"text":"/// @ 0.12.4\\r\\n\\r\\nvar emoji = \\"🍪\\"\\r\\nvar prev_point = 0\\r\\nvar point = 0\\r\\n\\r\\nvar cpc = 1\\r\\nvar cpp = 1\\r\\nvar level = 1\\r\\nvar cps = 0\\r\\nvar spp = 0\\r\\nvar cps_raw = 0\\r\\nvar cps_start = Date:now()\\r\\n\\r\\nif (Mk:load(\\"cookie_point\\") != null) {\\r\\n\\tpoint = Mk:load(\\"cookie_point\\")\\r\\n}\\r\\nif (Mk:load(\\"cookie_prev_point\\") != null) {\\r\\n\\tprev_point = Mk:load(\\"cookie_prev_point\\")\\r\\n}\\r\\nif (Mk:load(\\"cookie_level\\") != null) {\\r\\n\\tlevel = Mk:load(\\"cookie_level\\")\\r\\n}\\r\\n\\r\\n@kirisute(x, y) {\\r\\n\\treturn Math:floor(x * y) / y\\r\\n}\\r\\n\\r\\n@updateInfo() {\\r\\n\\tvar t = [\\"cps: \\" Core:to_str(cps) \\" lv: \\" Core:to_str(level) \\" cpp: \\" Core:to_str(kirisute(cpp, 1000)) \\" spp: \\" Core:to_str(kirisute(spp, 1000)) \\" point: \\" Core:to_str(Math:floor(point))].join(\\"\\")\\r\\n\\tvar cps = Ui:get(\\"cps\\")\\r\\n\\tif (cps != null) cps.update({text: t})\\r\\n\\treturn t\\r\\n}\\r\\n\\r\\n@pow(x, n) {\\r\\n\\tvar res = 0\\r\\n\\tfor let i, n {\\r\\n\\t\\tres += x * x\\r\\n\\t}\\r\\n\\treturn res\\r\\n}\\r\\n\\r\\n@easeInOutQuad(x) {\\r\\n\\treturn Math:min(\\r\\n\\t\\t(if (x < 0.5) 2 * x * x else pow(-2 * x + 2, 2) / 2),\\r\\n\\t\\t99.99\\r\\n\\t)\\r\\n}\\r\\n\\r\\n@calc() {\\r\\n\\tif (Math:floor(point) - prev_point > 50) {\\r\\n\\t\\tlevel += Math:floor((Math:floor(point) - prev_point) / 50)\\r\\n\\t\\tprev_point = Math:floor(point)\\r\\n\\t}\\r\\n\\tif (Date:now() - cps_start > 1000) {\\r\\n\\t\\tcps = cps_raw\\r\\n\\t\\tpoint += spp\\r\\n\\t\\tupdateInfo()\\r\\n\\t\\tcps_raw = 0\\r\\n\\t\\tcps_start = Date:now()\\r\\n\\t}\\r\\n\\tcpp = (cps * 0.05 + cpc) * (1 + level * 0.05)\\r\\n\\tspp = kirisute(easeInOutQuad(level / 10) / 10, 1000)\\r\\n}\\r\\n\\r\\n@click() {\\r\\n\\tpoint += 1 * cpp\\r\\n\\tcps_raw += 1\\r\\n}\\r\\n\\r\\nUi:render([\\r\\n\\tUi:C:text({\\r\\n\\t\\ttext: updateInfo()\\r\\n\\t} \\"cps\\")\\r\\n\\tUi:C:container({\\r\\n\\t\\talign: \\"center\\"\\r\\n\\t\\tchildren: [\\r\\n\\t\\t\\tUi:C:button({\\r\\n\\t\\t\\t\\ttext: emoji\\r\\n\\t\\t\\t\\tonClick: @() { click() }\\r\\n\\t\\t\\t})\\r\\n\\t\\t]\\r\\n\\t})\\r\\n])\\r\\n\\r\\nAsync:interval(1000 / 30, @(){\\r\\n\\tcalc()\\r\\n\\tupdateInfo()\\r\\n\\tMk:save(\\"cookie_point\\", point)\\r\\n\\tMk:save(\\"cookie_prev_point\\", prev_point)\\r\\n\\tMk:save(\\"cookie_level\\", level)\\r\\n})"}]}}'
+}
+Content-Length: 2267
+
+{"jsonrpc":"2.0","method":"textDocument/didChange","params":{"textDocument":{"uri":"file:///m%3A/programs/aiscript/aaa.ai","version":21},"contentChanges":[{"text":"/// @ 0.12.4\r\n\r\nvar emoji = \"🍪\"\r\nvar prev_point = 0\r\nvar point = 0\r\n\r\nvar cpc = 1\r\nvar cpp = 1\r\nvar level = 1\r\nvar cps = 0\r\nvar spp = 0\r\nvar cps_raw = 0\r\nvar cps_start = Date:now()\r\n\r\nif (Mk:load(\"cookie_point\") != null) {\r\n\tpoint = Mk:load(\"cookie_point\")\r\n}\r\nif (Mk:load(\"cookie_prev_point\") != null) {\r\n\tprev_point = Mk:load(\"cookie_prev_point\")\r\n}\r\nif (Mk:load(\"cookie_level\") != null) {\r\n\tlevel = Mk:load(\"cookie_level\")\r\n}\r\n\r\n@kirisute(x, y) {\r\n\treturn Math:floor(x * y) / y\r\n}\r\n\r\n@updateInfo() {\r\n\tvar t = [\"cps: \" Core:to_str(cps) \" lv: \" Core:to_str(level) \" cpp: \" Core:to_str(kirisute(cpp, 1000)) \" spp: \" Core:to_str(kirisute(spp, 1000)) \" point: \" Core:to_str(Math:floor(point))].join(\"\")\r\n\tvar cps = Ui:get(\"cps\")\r\n\tif (cps != null) cps.update({text: t})\r\n\treturn t\r\n}\r\n\r\n@pow(x, n) {\r\n\tvar res = 0\r\n\tfor let i, n {\r\n\t\tres += x * x\r\n\t}\r\n\treturn res\r\n}\r\n\r\n@easeInOutQuad(x) {\r\n\treturn Math:min(\r\n\t\t(if (x < 0.5) 2 * x * x else pow(-2 * x + 2, 2) / 2),\r\n\t\t99.99\r\n\t)\r\n}\r\n\r\n@calc() {\r\n\tif (Math:floor(point) - prev_point > 50) {\r\n\t\tlevel += Math:floor((Math:floor(point) - prev_point) / 50)\r\n\t\tprev_point = Math:floor(point)\r\n\t}\r\n\tif (Date:now() - cps_start > 1000) {\r\n\t\tcps = cps_raw\r\n\t\tpoint += spp\r\n\t\tupdateInfo()\r\n\t\tcps_raw = 0\r\n\t\tcps_start = Date:now()\r\n\t}\r\n\tcpp = (cps * 0.05 + cpc) * (1 + level * 0.05)\r\n\tspp = kirisute(easeInOutQuad(level / 10) / 10, 1000)\r\n}\r\n\r\n@click() {\r\n\tpoint += 1 * cpp\r\n\tcps_raw += 1\r\n}\r\n\r\nUi:render([\r\n\tUi:C:text({\r\n\t\ttext: updateInfo()\r\n\t} \"cps\")\r\n\tUi:C:container({\r\n\t\talign: \"center\"\r\n\t\tchildren: [\r\n\t\t\tUi:C:button({\r\n\t\t\t\ttext: emoji\r\n\t\t\t\tonClick: @() { click() }\r\n\t\t\t})\r\n\t\t]\r\n\t})\r\n])\r\n\r\nAsync:interval(1000 / 30, @(){\r\n\tcalc()\r\n\tupdateInfo()\r\n\tMk:save(\"cookie_point\", point)\r\n\tMk:save(\"cookie_prev_point\", prev_point)\r\n\tMk:save(\"cookie_level\", level)\r\n})"}]}}
+Content-Length: 134
+Content-Type: application/vscode-jsonrpc; charset=utf-8
+
+{"jsonrpc":"2.0","method":"textDocument/publishDiagnostics","params":{"uri":"file:///m%3A/programs/aiscript/aaa.ai","diagnostics":[]}}
+{
+  type: 'err',
+  value: [ 46, 5 ],
+  message: 'Parsing error. (Line 47:6)'
+}
+Content-Length: 250
+Content-Type: application/vscode-jsonrpc; charset=utf-8
+
+{"jsonrpc":"2.0","method":"textDocument/publishDiagnostics","params":{"uri":"file:///m%3A/programs/aiscript/aaa.ai","diagnostics":[{"range":{"start":{"line":46,"character":5},"end":{"line":46,"character":5}},"message":"Parsing error. (Line 47:6)"}]}}
+{ header: Map(1) { 'Content-Length' => '2266' }, body: '' }
+{
+  header: Map(1) { 'Content-Length' => '2266' },
+  body: '{"jsonrpc":"2.0","method":"textDocument/didChange","params":{"textDocument":{"uri":"file:///m%3A/programs/aiscript/aaa.ai","version":22},"contentChanges":[{"text":"/// @ 0.12.4\\r\\n\\r\\nvar emoji = \\"🍪\\"\\r\\nvar prev_point = 0\\r\\nvar point = 0\\r\\n\\r\\nvar cpc = 1\\r\\nvar cpp = 1\\r\\nvar level = 1\\r\\nvar cps = 0\\r\\nvar spp = 0\\r\\nvar cps_raw = 0\\r\\nvar cps_start = Date:now()\\r\\n\\r\\nif (Mk:load(\\"cookie_point\\") != null) {\\r\\n\\tpoint = Mk:load(\\"cookie_point\\")\\r\\n}\\r\\nif (Mk:load(\\"cookie_prev_point\\") != null) {\\r\\n\\tprev_point = Mk:load(\\"cookie_prev_point\\")\\r\\n}\\r\\nif (Mk:load(\\"cookie_level\\") != null) {\\r\\n\\tlevel = Mk:load(\\"cookie_level\\")\\r\\n}\\r\\n\\r\\n@kirisute(x, y) {\\r\\n\\treturn Math:floor(x * y) / y\\r\\n}\\r\\n\\r\\n@updateInfo() {\\r\\n\\tvar t = [\\"cps: \\" Core:to_str(cps) \\" lv: \\" Core:to_str(level) \\" cpp: \\" Core:to_str(kirisute(cpp, 1000)) \\" spp: \\" Core:to_str(kirisute(spp, 1000)) \\" point: \\" Core:to_str(Math:floor(point))].join(\\"\\")\\r\\n\\tvar cps = Ui:get(\\"cps\\")\\r\\n\\tif (cps != null) cps.update({text: t})\\r\\n\\treturn t\\r\\n}\\r\\n\\r\\n@pow(x, n) {\\r\\n\\tvar res = 0\\r\\n\\tfor let i, n {\\r\\n\\t\\tres += x * x\\r\\n\\t}\\r\\n\\treturn res\\r\\n}\\r\\n\\r\\n@easeInOutQuad(x) {\\r\\n\\treturn Math:min(\\r\\n\\t\\t(if (x < 0.5) 2 * x * x else pow(-2 * x + 2, 2) / 2),\\r\\n\\t\\t99.9\\r\\n\\t)\\r\\n}\\r\\n\\r\\n@calc() {\\r\\n\\tif (Math:floor(point) - prev_point > 50) {\\r\\n\\t\\tlevel += Math:floor((Math:floor(point) - prev_point) / 50)\\r\\n\\t\\tprev_point = Math:floor(point)\\r\\n\\t}\\r\\n\\tif (Date:now() - cps_start > 1000) {\\r\\n\\t\\tcps = cps_raw\\r\\n\\t\\tpoint += spp\\r\\n\\t\\tupdateInfo()\\r\\n\\t\\tcps_raw = 0\\r\\n\\t\\tcps_start = Date:now()\\r\\n\\t}\\r\\n\\tcpp = (cps * 0.05 + cpc) * (1 + level * 0.05)\\r\\n\\tspp = kirisute(easeInOutQuad(level / 10) / 10, 1000)\\r\\n}\\r\\n\\r\\n@click() {\\r\\n\\tpoint += 1 * cpp\\r\\n\\tcps_raw += 1\\r\\n}\\r\\n\\r\\nUi:render([\\r\\n\\tUi:C:text({\\r\\n\\t\\ttext: updateInfo()\\r\\n\\t} \\"cps\\")\\r\\n\\tUi:C:container({\\r\\n\\t\\talign: \\"center\\"\\r\\n\\t\\tchildren: [\\r\\n\\t\\t\\tUi:C:button({\\r\\n\\t\\t\\t\\ttext: emoji\\r\\n\\t\\t\\t\\tonClick: @() { click() }\\r\\n\\t\\t\\t})\\r\\n\\t\\t]\\r\\n\\t})\\r\\n])\\r\\n\\r\\nAsync:interval(1000 / 30, @(){\\r\\n\\tcalc()\\r\\n\\tupdateInfo()\\r\\n\\tMk:save(\\"cookie_point\\", point)\\r\\n\\tMk:save(\\"cookie_prev_point\\", prev_point)\\r\\n\\tMk:save(\\"cookie_level\\", level)\\r\\n})"}]}}'
+}
+Content-Length: 2266
+
+{"jsonrpc":"2.0","method":"textDocument/didChange","params":{"textDocument":{"uri":"file:///m%3A/programs/aiscript/aaa.ai","version":22},"contentChanges":[{"text":"/// @ 0.12.4\r\n\r\nvar emoji = \"🍪\"\r\nvar prev_point = 0\r\nvar point = 0\r\n\r\nvar cpc = 1\r\nvar cpp = 1\r\nvar level = 1\r\nvar cps = 0\r\nvar spp = 0\r\nvar cps_raw = 0\r\nvar cps_start = Date:now()\r\n\r\nif (Mk:load(\"cookie_point\") != null) {\r\n\tpoint = Mk:load(\"cookie_point\")\r\n}\r\nif (Mk:load(\"cookie_prev_point\") != null) {\r\n\tprev_point = Mk:load(\"cookie_prev_point\")\r\n}\r\nif (Mk:load(\"cookie_level\") != null) {\r\n\tlevel = Mk:load(\"cookie_level\")\r\n}\r\n\r\n@kirisute(x, y) {\r\n\treturn Math:floor(x * y) / y\r\n}\r\n\r\n@updateInfo() {\r\n\tvar t = [\"cps: \" Core:to_str(cps) \" lv: \" Core:to_str(level) \" cpp: \" Core:to_str(kirisute(cpp, 1000)) \" spp: \" Core:to_str(kirisute(spp, 1000)) \" point: \" Core:to_str(Math:floor(point))].join(\"\")\r\n\tvar cps = Ui:get(\"cps\")\r\n\tif (cps != null) cps.update({text: t})\r\n\treturn t\r\n}\r\n\r\n@pow(x, n) {\r\n\tvar res = 0\r\n\tfor let i, n {\r\n\t\tres += x * x\r\n\t}\r\n\treturn res\r\n}\r\n\r\n@easeInOutQuad(x) {\r\n\treturn Math:min(\r\n\t\t(if (x < 0.5) 2 * x * x else pow(-2 * x + 2, 2) / 2),\r\n\t\t99.9\r\n\t)\r\n}\r\n\r\n@calc() {\r\n\tif (Math:floor(point) - prev_point > 50) {\r\n\t\tlevel += Math:floor((Math:floor(point) - prev_point) / 50)\r\n\t\tprev_point = Math:floor(point)\r\n\t}\r\n\tif (Date:now() - cps_start > 1000) {\r\n\t\tcps = cps_raw\r\n\t\tpoint += spp\r\n\t\tupdateInfo()\r\n\t\tcps_raw = 0\r\n\t\tcps_start = Date:now()\r\n\t}\r\n\tcpp = (cps * 0.05 + cpc) * (1 + level * 0.05)\r\n\tspp = kirisute(easeInOutQuad(level / 10) / 10, 1000)\r\n}\r\n\r\n@click() {\r\n\tpoint += 1 * cpp\r\n\tcps_raw += 1\r\n}\r\n\r\nUi:render([\r\n\tUi:C:text({\r\n\t\ttext: updateInfo()\r\n\t} \"cps\")\r\n\tUi:C:container({\r\n\t\talign: \"center\"\r\n\t\tchildren: [\r\n\t\t\tUi:C:button({\r\n\t\t\t\ttext: emoji\r\n\t\t\t\tonClick: @() { click() }\r\n\t\t\t})\r\n\t\t]\r\n\t})\r\n])\r\n\r\nAsync:interval(1000 / 30, @(){\r\n\tcalc()\r\n\tupdateInfo()\r\n\tMk:save(\"cookie_point\", point)\r\n\tMk:save(\"cookie_prev_point\", prev_point)\r\n\tMk:save(\"cookie_level\", level)\r\n})"}]}}
+Content-Length: 134
+Content-Type: application/vscode-jsonrpc; charset=utf-8
+
+{"jsonrpc":"2.0","method":"textDocument/publishDiagnostics","params":{"uri":"file:///m%3A/programs/aiscript/aaa.ai","diagnostics":[]}}
+{
+  type: 'err',
+  value: [ 46, 5 ],
+  message: 'Parsing error. (Line 47:6)'
+}
+Content-Length: 250
+Content-Type: application/vscode-jsonrpc; charset=utf-8
+
+{"jsonrpc":"2.0","method":"textDocument/publishDiagnostics","params":{"uri":"file:///m%3A/programs/aiscript/aaa.ai","diagnostics":[{"range":{"start":{"line":46,"character":5},"end":{"line":46,"character":5}},"message":"Parsing error. (Line 47:6)"}]}}
+{ header: Map(1) { 'Content-Length' => '2264' }, body: '' }
+{
+  header: Map(1) { 'Content-Length' => '2264' },
+  body: '{"jsonrpc":"2.0","method":"textDocument/didChange","params":{"textDocument":{"uri":"file:///m%3A/programs/aiscript/aaa.ai","version":24},"contentChanges":[{"text":"/// @ 0.12.4\\r\\n\\r\\nvar emoji = \\"🍪\\"\\r\\nvar prev_point = 0\\r\\nvar point = 0\\r\\n\\r\\nvar cpc = 1\\r\\nvar cpp = 1\\r\\nvar level = 1\\r\\nvar cps = 0\\r\\nvar spp = 0\\r\\nvar cps_raw = 0\\r\\nvar cps_start = Date:now()\\r\\n\\r\\nif (Mk:load(\\"cookie_point\\") != null) {\\r\\n\\tpoint = Mk:load(\\"cookie_point\\")\\r\\n}\\r\\nif (Mk:load(\\"cookie_prev_point\\") != null) {\\r\\n\\tprev_point = Mk:load(\\"cookie_prev_point\\")\\r\\n}\\r\\nif (Mk:load(\\"cookie_level\\") != null) {\\r\\n\\tlevel = Mk:load(\\"cookie_level\\")\\r\\n}\\r\\n\\r\\n@kirisute(x, y) {\\r\\n\\treturn Math:floor(x * y) / y\\r\\n}\\r\\n\\r\\n@updateInfo() {\\r\\n\\tvar t = [\\"cps: \\" Core:to_str(cps) \\" lv: \\" Core:to_str(level) \\" cpp: \\" Core:to_str(kirisute(cpp, 1000)) \\" spp: \\" Core:to_str(kirisute(spp, 1000)) \\" point: \\" Core:to_str(Math:floor(point))].join(\\"\\")\\r\\n\\tvar cps = Ui:get(\\"cps\\")\\r\\n\\tif (cps != null) cps.update({text: t})\\r\\n\\treturn t\\r\\n}\\r\\n\\r\\n@pow(x, n) {\\r\\n\\tvar res = 0\\r\\n\\tfor let i, n {\\r\\n\\t\\tres += x * x\\r\\n\\t}\\r\\n\\treturn res\\r\\n}\\r\\n\\r\\n@easeInOutQuad(x) {\\r\\n\\treturn Math:min(\\r\\n\\t\\t(if (x < 0.5) 2 * x * x else pow(-2 * x + 2, 2) / 2),\\r\\n\\t\\t99\\r\\n\\t)\\r\\n}\\r\\n\\r\\n@calc() {\\r\\n\\tif (Math:floor(point) - prev_point > 50) {\\r\\n\\t\\tlevel += Math:floor((Math:floor(point) - prev_point) / 50)\\r\\n\\t\\tprev_point = Math:floor(point)\\r\\n\\t}\\r\\n\\tif (Date:now() - cps_start > 1000) {\\r\\n\\t\\tcps = cps_raw\\r\\n\\t\\tpoint += spp\\r\\n\\t\\tupdateInfo()\\r\\n\\t\\tcps_raw = 0\\r\\n\\t\\tcps_start = Date:now()\\r\\n\\t}\\r\\n\\tcpp = (cps * 0.05 + cpc) * (1 + level * 0.05)\\r\\n\\tspp = kirisute(easeInOutQuad(level / 10) / 10, 1000)\\r\\n}\\r\\n\\r\\n@click() {\\r\\n\\tpoint += 1 * cpp\\r\\n\\tcps_raw += 1\\r\\n}\\r\\n\\r\\nUi:render([\\r\\n\\tUi:C:text({\\r\\n\\t\\ttext: updateInfo()\\r\\n\\t} \\"cps\\")\\r\\n\\tUi:C:container({\\r\\n\\t\\talign: \\"center\\"\\r\\n\\t\\tchildren: [\\r\\n\\t\\t\\tUi:C:button({\\r\\n\\t\\t\\t\\ttext: emoji\\r\\n\\t\\t\\t\\tonClick: @() { click() }\\r\\n\\t\\t\\t})\\r\\n\\t\\t]\\r\\n\\t})\\r\\n])\\r\\n\\r\\nAsync:interval(1000 / 30, @(){\\r\\n\\tcalc()\\r\\n\\tupdateInfo()\\r\\n\\tMk:save(\\"cookie_point\\", point)\\r\\n\\tMk:save(\\"cookie_prev_point\\", prev_point)\\r\\n\\tMk:save(\\"cookie_level\\", level)\\r\\n})"}]}}'
+}
+Content-Length: 2264
+
+{"jsonrpc":"2.0","method":"textDocument/didChange","params":{"textDocument":{"uri":"file:///m%3A/programs/aiscript/aaa.ai","version":24},"contentChanges":[{"text":"/// @ 0.12.4\r\n\r\nvar emoji = \"🍪\"\r\nvar prev_point = 0\r\nvar point = 0\r\n\r\nvar cpc = 1\r\nvar cpp = 1\r\nvar level = 1\r\nvar cps = 0\r\nvar spp = 0\r\nvar cps_raw = 0\r\nvar cps_start = Date:now()\r\n\r\nif (Mk:load(\"cookie_point\") != null) {\r\n\tpoint = Mk:load(\"cookie_point\")\r\n}\r\nif (Mk:load(\"cookie_prev_point\") != null) {\r\n\tprev_point = Mk:load(\"cookie_prev_point\")\r\n}\r\nif (Mk:load(\"cookie_level\") != null) {\r\n\tlevel = Mk:load(\"cookie_level\")\r\n}\r\n\r\n@kirisute(x, y) {\r\n\treturn Math:floor(x * y) / y\r\n}\r\n\r\n@updateInfo() {\r\n\tvar t = [\"cps: \" Core:to_str(cps) \" lv: \" Core:to_str(level) \" cpp: \" Core:to_str(kirisute(cpp, 1000)) \" spp: \" Core:to_str(kirisute(spp, 1000)) \" point: \" Core:to_str(Math:floor(point))].join(\"\")\r\n\tvar cps = Ui:get(\"cps\")\r\n\tif (cps != null) cps.update({text: t})\r\n\treturn t\r\n}\r\n\r\n@pow(x, n) {\r\n\tvar res = 0\r\n\tfor let i, n {\r\n\t\tres += x * x\r\n\t}\r\n\treturn res\r\n}\r\n\r\n@easeInOutQuad(x) {\r\n\treturn Math:min(\r\n\t\t(if (x < 0.5) 2 * x * x else pow(-2 * x + 2, 2) / 2),\r\n\t\t99\r\n\t)\r\n}\r\n\r\n@calc() {\r\n\tif (Math:floor(point) - prev_point > 50) {\r\n\t\tlevel += Math:floor((Math:floor(point) - prev_point) / 50)\r\n\t\tprev_point = Math:floor(point)\r\n\t}\r\n\tif (Date:now() - cps_start > 1000) {\r\n\t\tcps = cps_raw\r\n\t\tpoint += spp\r\n\t\tupdateInfo()\r\n\t\tcps_raw = 0\r\n\t\tcps_start = Date:now()\r\n\t}\r\n\tcpp = (cps * 0.05 + cpc) * (1 + level * 0.05)\r\n\tspp = kirisute(easeInOutQuad(level / 10) / 10, 1000)\r\n}\r\n\r\n@click() {\r\n\tpoint += 1 * cpp\r\n\tcps_raw += 1\r\n}\r\n\r\nUi:render([\r\n\tUi:C:text({\r\n\t\ttext: updateInfo()\r\n\t} \"cps\")\r\n\tUi:C:container({\r\n\t\talign: \"center\"\r\n\t\tchildren: [\r\n\t\t\tUi:C:button({\r\n\t\t\t\ttext: emoji\r\n\t\t\t\tonClick: @() { click() }\r\n\t\t\t})\r\n\t\t]\r\n\t})\r\n])\r\n\r\nAsync:interval(1000 / 30, @(){\r\n\tcalc()\r\n\tupdateInfo()\r\n\tMk:save(\"cookie_point\", point)\r\n\tMk:save(\"cookie_prev_point\", prev_point)\r\n\tMk:save(\"cookie_level\", level)\r\n})"}]}}
+Content-Length: 134
+Content-Type: application/vscode-jsonrpc; charset=utf-8
+
+{"jsonrpc":"2.0","method":"textDocument/publishDiagnostics","params":{"uri":"file:///m%3A/programs/aiscript/aaa.ai","diagnostics":[]}}
+{ header: Map(1) { 'Content-Length' => '123' }, body: '' }
+{
+  header: Map(1) { 'Content-Length' => '123' },
+  body: '{"jsonrpc":"2.0","method":"textDocument/didSave","params":{"textDocument":{"uri":"file:///m%3A/programs/aiscript/aaa.ai"}}}'
+}
+Content-Length: 123
+
+{"jsonrpc":"2.0","method":"textDocument/didSave","params":{"textDocument":{"uri":"file:///m%3A/programs/aiscript/aaa.ai"}}}
+{ header: Map(1) { 'Content-Length' => '2266' }, body: '' }
+{
+  header: Map(1) { 'Content-Length' => '2266' },
+  body: '{"jsonrpc":"2.0","method":"textDocument/didChange","params":{"textDocument":{"uri":"file:///m%3A/programs/aiscript/aaa.ai","version":26},"contentChanges":[{"text":"/// @ 0.12.4\\r\\n\\r\\nvar emoji = \\"🍪\\"\\r\\nvar prev_point = 0\\r\\nvar point = 0\\r\\n\\r\\nvar cpc = 1\\r\\nvar cpp = 1\\r\\nvar level = 1\\r\\nvar cps = 0\\r\\nvar spp = 0\\r\\nvar cps_raw = 0\\r\\nvar cps_start = Date:now()\\r\\n\\r\\nif (Mk:load(\\"cookie_point\\") != null) {\\r\\n\\tpoint = Mk:load(\\"cookie_point\\")\\r\\n}\\r\\nif (Mk:load(\\"cookie_prev_point\\") != null) {\\r\\n\\tprev_point = Mk:load(\\"cookie_prev_point\\")\\r\\n}\\r\\nif (Mk:load(\\"cookie_level\\") != null) {\\r\\n\\tlevel = Mk:load(\\"cookie_level\\")\\r\\n}\\r\\n\\r\\n@kirisute(x, y) {\\r\\n\\treturn Math:floor(x * y) / y\\r\\n}\\r\\n\\r\\n@updateInfo() {\\r\\n\\tvar t = [\\"cps: \\" Core:to_str(cps) \\" lv: \\" Core:to_str(level) \\" cpp: \\" Core:to_str(kirisute(cpp, 1000)) \\" spp: \\" Core:to_str(kirisute(spp, 1000)) \\" point: \\" Core:to_str(Math:floor(point))].join(\\"\\")\\r\\n\\tvar cps = Ui:get(\\"cps\\")\\r\\n\\tif (cps != null) cps.update({text: t})\\r\\n\\treturn t\\r\\n}\\r\\n\\r\\n@pow(x, n) {\\r\\n\\tvar res = 0\\r\\n\\tfor let i, n {\\r\\n\\t\\tres += x * x\\r\\n\\t}\\r\\n\\treturn res\\r\\n}\\r\\n\\r\\n@easeInOutQuad(x) {\\r\\n\\treturn Math:min(\\r\\n\\t\\t(if (x < 0.5) 2 * x * x else pow(-2 * x + 2, 2) / 2),\\r\\n\\t\\t9999\\r\\n\\t)\\r\\n}\\r\\n\\r\\n@calc() {\\r\\n\\tif (Math:floor(point) - prev_point > 50) {\\r\\n\\t\\tlevel += Math:floor((Math:floor(point) - prev_point) / 50)\\r\\n\\t\\tprev_point = Math:floor(point)\\r\\n\\t}\\r\\n\\tif (Date:now() - cps_start > 1000) {\\r\\n\\t\\tcps = cps_raw\\r\\n\\t\\tpoint += spp\\r\\n\\t\\tupdateInfo()\\r\\n\\t\\tcps_raw = 0\\r\\n\\t\\tcps_start = Date:now()\\r\\n\\t}\\r\\n\\tcpp = (cps * 0.05 + cpc) * (1 + level * 0.05)\\r\\n\\tspp = kirisute(easeInOutQuad(level / 10) / 10, 1000)\\r\\n}\\r\\n\\r\\n@click() {\\r\\n\\tpoint += 1 * cpp\\r\\n\\tcps_raw += 1\\r\\n}\\r\\n\\r\\nUi:render([\\r\\n\\tUi:C:text({\\r\\n\\t\\ttext: updateInfo()\\r\\n\\t} \\"cps\\")\\r\\n\\tUi:C:container({\\r\\n\\t\\talign: \\"center\\"\\r\\n\\t\\tchildren: [\\r\\n\\t\\t\\tUi:C:button({\\r\\n\\t\\t\\t\\ttext: emoji\\r\\n\\t\\t\\t\\tonClick: @() { click() }\\r\\n\\t\\t\\t})\\r\\n\\t\\t]\\r\\n\\t})\\r\\n])\\r\\n\\r\\nAsync:interval(1000 / 30, @(){\\r\\n\\tcalc()\\r\\n\\tupdateInfo()\\r\\n\\tMk:save(\\"cookie_point\\", point)\\r\\n\\tMk:save(\\"cookie_prev_point\\", prev_point)\\r\\n\\tMk:save(\\"cookie_level\\", level)\\r\\n})"}]}}'
+}
+Content-Length: 2266
+
+{"jsonrpc":"2.0","method":"textDocument/didChange","params":{"textDocument":{"uri":"file:///m%3A/programs/aiscript/aaa.ai","version":26},"contentChanges":[{"text":"/// @ 0.12.4\r\n\r\nvar emoji = \"🍪\"\r\nvar prev_point = 0\r\nvar point = 0\r\n\r\nvar cpc = 1\r\nvar cpp = 1\r\nvar level = 1\r\nvar cps = 0\r\nvar spp = 0\r\nvar cps_raw = 0\r\nvar cps_start = Date:now()\r\n\r\nif (Mk:load(\"cookie_point\") != null) {\r\n\tpoint = Mk:load(\"cookie_point\")\r\n}\r\nif (Mk:load(\"cookie_prev_point\") != null) {\r\n\tprev_point = Mk:load(\"cookie_prev_point\")\r\n}\r\nif (Mk:load(\"cookie_level\") != null) {\r\n\tlevel = Mk:load(\"cookie_level\")\r\n}\r\n\r\n@kirisute(x, y) {\r\n\treturn Math:floor(x * y) / y\r\n}\r\n\r\n@updateInfo() {\r\n\tvar t = [\"cps: \" Core:to_str(cps) \" lv: \" Core:to_str(level) \" cpp: \" Core:to_str(kirisute(cpp, 1000)) \" spp: \" Core:to_str(kirisute(spp, 1000)) \" point: \" Core:to_str(Math:floor(point))].join(\"\")\r\n\tvar cps = Ui:get(\"cps\")\r\n\tif (cps != null) cps.update({text: t})\r\n\treturn t\r\n}\r\n\r\n@pow(x, n) {\r\n\tvar res = 0\r\n\tfor let i, n {\r\n\t\tres += x * x\r\n\t}\r\n\treturn res\r\n}\r\n\r\n@easeInOutQuad(x) {\r\n\treturn Math:min(\r\n\t\t(if (x < 0.5) 2 * x * x else pow(-2 * x + 2, 2) / 2),\r\n\t\t9999\r\n\t)\r\n}\r\n\r\n@calc() {\r\n\tif (Math:floor(point) - prev_point > 50) {\r\n\t\tlevel += Math:floor((Math:floor(point) - prev_point) / 50)\r\n\t\tprev_point = Math:floor(point)\r\n\t}\r\n\tif (Date:now() - cps_start > 1000) {\r\n\t\tcps = cps_raw\r\n\t\tpoint += spp\r\n\t\tupdateInfo()\r\n\t\tcps_raw = 0\r\n\t\tcps_start = Date:now()\r\n\t}\r\n\tcpp = (cps * 0.05 + cpc) * (1 + level * 0.05)\r\n\tspp = kirisute(easeInOutQuad(level / 10) / 10, 1000)\r\n}\r\n\r\n@click() {\r\n\tpoint += 1 * cpp\r\n\tcps_raw += 1\r\n}\r\n\r\nUi:render([\r\n\tUi:C:text({\r\n\t\ttext: updateInfo()\r\n\t} \"cps\")\r\n\tUi:C:container({\r\n\t\talign: \"center\"\r\n\t\tchildren: [\r\n\t\t\tUi:C:button({\r\n\t\t\t\ttext: emoji\r\n\t\t\t\tonClick: @() { click() }\r\n\t\t\t})\r\n\t\t]\r\n\t})\r\n])\r\n\r\nAsync:interval(1000 / 30, @(){\r\n\tcalc()\r\n\tupdateInfo()\r\n\tMk:save(\"cookie_point\", point)\r\n\tMk:save(\"cookie_prev_point\", prev_point)\r\n\tMk:save(\"cookie_level\", level)\r\n})"}]}}
+Content-Length: 134
+Content-Type: application/vscode-jsonrpc; charset=utf-8
+
+{"jsonrpc":"2.0","method":"textDocument/publishDiagnostics","params":{"uri":"file:///m%3A/programs/aiscript/aaa.ai","diagnostics":[]}}
+{ header: Map(1) { 'Content-Length' => '123' }, body: '' }
+{
+  header: Map(1) { 'Content-Length' => '123' },
+  body: '{"jsonrpc":"2.0","method":"textDocument/didSave","params":{"textDocument":{"uri":"file:///m%3A/programs/aiscript/aaa.ai"}}}'
+}
+Content-Length: 123
+
+{"jsonrpc":"2.0","method":"textDocument/didSave","params":{"textDocument":{"uri":"file:///m%3A/programs/aiscript/aaa.ai"}}}
